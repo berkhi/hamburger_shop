@@ -1,0 +1,10 @@
+rootProject.name = 'hamburger_shop'
+include 'AuthService'
+include 'ConfigServer'
+include 'EmailService'
+include 'ProfileService'
+include 'InventoryService'
+include 'ShoppingService'
+include 'ApiGatewayService'
+include 'ConfigServerGit'
+
